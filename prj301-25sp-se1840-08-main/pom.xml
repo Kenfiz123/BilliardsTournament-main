@@ -16,9 +16,9 @@
         <java.version>21</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <sonar.projectKey>doychannel_BilliardsTournament</sonar.projectKey>
-        <sonar.organization>doychannel</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>Kenfiz123_BilliardsTournament-main</sonar.projectKey>
+        <sonar.organization>kenfiz123</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.coverage.jacoco.xmlReportPaths>${project.build.directory}/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
